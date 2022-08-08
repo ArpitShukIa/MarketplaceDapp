@@ -1,0 +1,7 @@
+dotenv: .env
+dev_deployment_artifacts: True
+networks:
+  rinkeby:
+    verify: true
+wallets:
+  from_key: ${PRIVATE_KEY}
