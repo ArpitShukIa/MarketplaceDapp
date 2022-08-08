@@ -1,0 +1,122 @@
+{
+  "contracts": {
+    "Marketplace": "ba40af6491da1a5d489640fa94afae3d14f39acd"
+  },
+  "tests": {
+    "tests/test_marketplace.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "...",
+      "sha1": "97d6531008959f4f09552197517ab2866075bbcd",
+      "txhash": [
+        "061b8cae1394978aebcc126f9f8adf37b2a69057",
+        "2486da8bc4fb011e053fe5b8c30c18e4b324cd58",
+        "4ff7816dbc2c6348ddda86523071b5593ee3b801",
+        "624633fcae0a6f08718fe3e096c8c85cbef60a87",
+        "a211c95bc98c53013a4950c29bb9521c21bf64c5",
+        "bc24de07ecd83d226c59f22af67a8bec25da430c"
+      ]
+    }
+  },
+  "tx": {
+    "061b8cae1394978aebcc126f9f8adf37b2a69057": {
+      "Marketplace": {
+        "0": [
+          [
+            9
+          ],
+          [
+            19
+          ],
+          []
+        ]
+      }
+    },
+    "2486da8bc4fb011e053fe5b8c30c18e4b324cd58": {
+      "Marketplace": {
+        "0": [
+          [
+            9,
+            10
+          ],
+          [
+            20
+          ],
+          [
+            19
+          ]
+        ]
+      }
+    },
+    "4ff7816dbc2c6348ddda86523071b5593ee3b801": {
+      "Marketplace": {
+        "0": [
+          [
+            0,
+            1,
+            2
+          ],
+          [
+            14,
+            17
+          ],
+          [
+            15,
+            16
+          ]
+        ]
+      }
+    },
+    "624633fcae0a6f08718fe3e096c8c85cbef60a87": {
+      "Marketplace": {
+        "0": [
+          [
+            0,
+            1
+          ],
+          [
+            14,
+            16
+          ],
+          [
+            15
+          ]
+        ]
+      }
+    },
+    "a211c95bc98c53013a4950c29bb9521c21bf64c5": {
+      "Marketplace": {
+        "0": [
+          [
+            0
+          ],
+          [],
+          [
+            14
+          ]
+        ]
+      }
+    },
+    "bc24de07ecd83d226c59f22af67a8bec25da430c": {
+      "Marketplace": {
+        "0": [
+          [
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            14,
+            18
+          ],
+          [
+            15,
+            16,
+            17
+          ]
+        ]
+      }
+    }
+  }
+}
